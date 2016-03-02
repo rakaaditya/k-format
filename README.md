@@ -1,4 +1,5 @@
 # KFormat
+[![Build Status](https://travis-ci.org/rakaaditya/k-format.svg?branch=master)](https://travis-ci.org/rakaaditya/k-format)
 
 A library to shorten long number to K, M, and B format.
 

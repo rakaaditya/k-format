@@ -1,0 +1,22 @@
+{
+    "name": "rakaaditya/k-format",
+    "description": "A library to shorten long number to K, M, and B format.",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "4.2.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "raka aditya",
+            "email": "hai@rakaaditya.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rakaaditya\\KFormat\\": "src"
+        }
+    }
+}
